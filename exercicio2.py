@@ -16,7 +16,7 @@ def cumulativo(lista : list):
         nova_lista.append(soma)
     return nova_lista
 
-
+print(cumulativo([1,2,3]))
 
 
 

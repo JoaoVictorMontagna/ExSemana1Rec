@@ -23,7 +23,7 @@ def tem_duplicados (lista):
         return False 
  
 
-
+print(tem_duplicados([1,2,3,4,4]))
 
 
 

@@ -22,7 +22,7 @@ def multiplas_operacoes(a,b):
 
     return (soma,subtracao,multiplicacao,divisao)
 
-
+print(multiplas_operacoes(10,20))
 
         
   
